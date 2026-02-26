@@ -141,3 +141,4 @@ Settings are stored locally in the webview sidecar's localStorage.
 ## License
 
 MIT
+<!-- Last updated: 2026-02-26 -->
