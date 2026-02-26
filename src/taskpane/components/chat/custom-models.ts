@@ -1,3 +1,4 @@
+// Custom model configurations for the Excel extension
 import type { Model } from "@mariozechner/pi-ai";
 
 export const CUSTOM_MODELS: Record<string, Model<any>[]> = {
